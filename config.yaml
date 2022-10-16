@@ -50,7 +50,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: https://52cbcdb085f29d8515e1171ba6ff2369.r2.cloudflarestorage.com/image/photo_2022-10-16_11-27-26.jpg
+            src: img/avatar.jpg
 
     article:
         math: false
