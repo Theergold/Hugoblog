@@ -3,7 +3,7 @@ title: 去澳门旅行的一些小Tips
 date: 2022-05-16
 lastmod: 2022-09-03
 slug: Macao_Tips
-image: https://p.sda1.dev/7/a72f857b40e15befe8e8fd7a030fe775/IMG_6854_magic.jpg
+image: https://pub-0ae159ad201e408fbc67e31384002f68.r2.dev/2022/GJM6hCwf5j.png
 categories:
     - 旅行
 ---

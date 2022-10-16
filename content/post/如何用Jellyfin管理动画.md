@@ -2,7 +2,7 @@
 title: 如何用Jellyfin管理动画
 date: 2022-02-04
 slug: Jellyfin_Anime
-image: https://p.sda1.dev/7/1963f3dfde280d89d758f9f30a79e7f4/Snipaste_2022-10-10_00-04-03.jpg
+image: https://pub-0ae159ad201e408fbc67e31384002f68.r2.dev/2022/p0KElsKRHX.png
 categories:
     - Anime
     - 影音
@@ -10,7 +10,7 @@ categories:
 
 用Jellyfin管理日本动画是一个需要一定技巧才能完美运行的东西,如果啥都不做在网上随便下一个RIP然后丢进Jellyfin就会发生这样的"惨剧"
 
-![image-20220204005543624](https://s2.loli.net/2022/02/04/lX9pxfKzsGBbmvk.png)
+![image-20220204005543624](https://pub-0ae159ad201e408fbc67e31384002f68.r2.dev/2022/photo_2022-02-04_01-55-01.jpg)
 
 # 确认自己的网络情况
 

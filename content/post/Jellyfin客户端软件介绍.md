@@ -2,7 +2,7 @@
 title: Jellyfin客户端软件介绍
 date: 2022-01-29
 slug: Jellyfin_clients
-image: https://p.sda1.dev/7/b89e7dd0e78abddf5673a635ae016d94/.jpg
+image: https://pub-0ae159ad201e408fbc67e31384002f68.r2.dev/2022/jpg.jpg
 categories:
     - 影音
 ---
