@@ -51,7 +51,7 @@ params:
             enabled: true
             local: true
             src: img/avatar.jpg
-
+            
     article:
         math: false
         toc: true
@@ -195,6 +195,11 @@ menu:
           params:
               icon: brand-telegram
 
+        - identifier: rss
+          name: RSS
+          url: https://blog.sexgold.moe/index.xml
+          params:
+              icon: brand-rss
 related:
     includeNewer: true
     threshold: 60
