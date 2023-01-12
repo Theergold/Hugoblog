@@ -9,6 +9,10 @@ links:
     description: 回音音的博客
     website: https://echo.moe/
     image: https://echo.moe/favicon.ico
+  - title: Kiritake Kumi ‘s Blog
+    description: 月 が き れ い！
+    website: https://blog.yazawaniko.com/
+    image: https://img.yazawaniko.com/images/2022/02/23/b41ce837f741681928e0570c143ca048.th.png
 menu:
     main: 
         weight: -50
