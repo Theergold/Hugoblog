@@ -1,5 +1,5 @@
 ---
-title: Links
+title: 友链
 links:
   - title: RBQ.AI
     description: YFsama的博客
