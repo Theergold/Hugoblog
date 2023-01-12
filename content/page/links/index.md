@@ -4,7 +4,7 @@ links:
   - title: RBQ.AI
     description: YFsama的博客
     website: https://rbq.ai/
-    image: https://rbq.ai/wp-content/uploads/2019/06/cropped-2019060720433721-32x32.png
+    image: https://pub-0ae159ad201e408fbc67e31384002f68.r2.dev/2023/wOE1bbwuj1.png
   - title: 回音的博客
     description: 回音音的博客
     website: https://echo.moe/
