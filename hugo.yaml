@@ -229,6 +229,3 @@ markup:
         lineNumbersInTable: true
         tabWidth: 4
 
-module:
-  imports:
-    - path: github.com/CaiJimmy/hugo-theme-stack
