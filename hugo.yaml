@@ -37,7 +37,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2022
+        since: 2024
         customText:
 
     dateFormat:
@@ -183,15 +183,15 @@ menu:
     main: []
 
     social:
-        - identifier: mastodon
-          name: Mastodon
-          url: https://lolic.at/@Sexgold
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/theergold
           params:
-              icon: brand-mastodon
+              icon: brand-twitter
 
         - identifier: telegram
           name: Telegram
-          url: https://t.me/@Theergold/
+          url: https://t.me/@Theergol/
           params:
               icon: brand-telegram
 
