@@ -24,6 +24,7 @@ DefaultContentLanguage: zh-cn
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
+enableGitInfo: true
 
 permalinks:
     post: /p/:slug/
@@ -175,6 +176,7 @@ params:
             enabled: true
         content:
             enabled: true
+
     frontmatter:
         lastmod: [":fileModTime", "lastmod"]
 
